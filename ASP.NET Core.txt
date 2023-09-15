@@ -1,0 +1,28 @@
+ASP.NET Core
+--------------
+LEARN C#
+	OOPs Concepts
+	Collections and Generics
+	Deligates
+	Lambda Expessions
+	Events
+	Extension Methods
+	LINQ
+	Nullable types
+	Dynamic
+	Exception Handling
+	Asyncronus programming with Async/Await
+ADO.NET
+
+Entity Frame Work
+
+ASP.NET MVC
+
+ASP.NET WEB API
+
+ASP.NET CORE MVC
+
+ASP.NET CORE WEB API
+
+Need to create one project in MVC Core called a Movie Library
+	
